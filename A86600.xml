@@ -1,0 +1,936 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Clavis exousiasichē [sic]: The key of ordination. Or, Missio potestativa. Oichonomichē: ministerial power: or, Authoritative separation of men to the work of Christ, a ministerial privilege.A sermon preached at the ordination of Mr. Thomas Porter Master of Arts, Mr. John Wilson, Mr. David Jenks, Mr. George Burraston, and Mr. Tho: Soley, at Whitchurch in the county of Salop. / By Aylmer Houghton, minister of the word at Prees in the said county.</title>
+            <author>Houghton, Aylmer.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86600</idno>
+            <idno type="STC">Wing H2918</idno>
+            <idno type="STC">Thomason E1665_3</idno>
+            <idno type="STC">ESTC R208387</idno>
+            <idno type="EEBO-CITATION">99867342</idno>
+            <idno type="PROQUEST">99867342</idno>
+            <idno type="VID">170242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86600)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170242)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 209:E1665[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Clavis exousiasichē [sic]: The key of ordination. Or, Missio potestativa. Oichonomichē: ministerial power: or, Authoritative separation of men to the work of Christ, a ministerial privilege.A sermon preached at the ordination of Mr. Thomas Porter Master of Arts, Mr. John Wilson, Mr. David Jenks, Mr. George Burraston, and Mr. Tho: Soley, at Whitchurch in the county of Salop. / By Aylmer Houghton, minister of the word at Prees in the said county.</title>
+                  <author>Houghton, Aylmer.</author>
+               </titleStmt>
+               <extent>59, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R.I. for Tho: Parkhurst, over against the Great Conduit in Cheapside.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Exousiasichē" and "Oichonomichē" are in Greek characters on title page.</note>
+                  <note>Annotation on Thomason copy: "June. 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts XIII, 2-3 --  Sermons.</term>
+               <term>Ordination --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170242:1" rendition="simple:additions"/>
+            <p>
+               <hi>CLAVIS</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: THE KEY of ORDINATION. OR,
+<hi>MISSIO POTEST ATIVA.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: MINISTERIAL POWER: OR, Authoritative Separation of men to the work of Chriſt, a Miniſterial privilege.</p>
+            <p>A SERMON PREACHED At the Ordination of Mr. <hi>Thomas Porter</hi> Maſter of Arts, Mr. <hi>John Wilſon,</hi> Mr. <hi>Da<g ref="char:EOLhyphen"/>vid Jenks,</hi> Mr.
+<hi>George Burraſton,</hi> and Mr. <hi>Tho: So<g ref="char:EOLhyphen"/>ley,</hi> at
+<hi>Whitchurch</hi> in the County of <hi>Salop.</hi>
+            </p>
+            <p>By <hi>Aylmor Houghton,</hi> Miniſter of the Word at
+<hi>Prees</hi> in the ſaid County.</p>
+            <q>
+               <bibl>
+                  <hi>Rom. 10.15.</hi>
+               </bibl>
+               <p>How can they preach till they be ſent?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>John 10.1.</hi>
+               </bibl>
+               <p>He that comes not in by the door, the ſame is a thief and a robber.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mat. 9.38.</hi>
+               </bibl>
+               <p>Pray the Lord of the harveſt, that he will ſend forth laborers into his harveſt.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Feſtus Hominus Diſp.</hi> 30. <hi>Theſ</hi>
+6.</bibl>
+               <p>Poteſtas Eccleſiaſtica circa bonum ſpiritual everſatur cujus officium eſt, verbum Dei predicate, Sacramenta adminiſtrate, diſciplinam eccleſiaſticam, exercere, miniſtros Eccleſiae ordinare, &amp;c.</p>
+            </q>
+            <p>
+               <hi>London,</hi> printed by <hi>R.I.</hi> for <hi>Tho: Parkhurſt,</hi> over againſt the Great Conduit in <hi>Cheapſide.</hi>
+1656.</p>
+            <pb facs="tcp:170242:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170242:2"/>
+            <head>To my Reverend brethren, <hi>Thomas Porter, Andrew Parſons, William Gower, Tho: Wright, John Malden, Rob. Bemy,</hi> all of you Maſters of Arts, my Brethren of the Claſsis of <hi>Bradford-North,</hi> in the County of <hi>Salop.</hi>
+            </head>
+            <head type="sub">
+               <hi>Aylmar Houghton</hi> prays, that grace, peace, and ſpiri<g ref="char:EOLhyphen"/>tual proſperity, may be multiplyed unto you, from God the Father, and from the Lord Jeſus Christ, the Son of the Father, by the Holy Ghoſt, That ye may be abun<g ref="char:EOLhyphen"/>dantly abounding in the work of the Lord, that it may proſper and be ſucceſsful to your own ſpiritual advan<g ref="char:EOLhyphen"/>tage, and the advancement of the Kingdom of our Lord and Saviour Jeſus Christ.</head>
+            <opener>
+               <salute>Reverend Brethren,</salute>
+            </opener>
+            <p>THeſe meditations acknowledge themſelves yours, as drawn from your command and call.</p>
+            <p>They were commanded to your ears, and now are commended to your eyes.</p>
+            <p>I beſeech you receive them as your own again, although not ſuch as you deſerve, or as I could deſire, yet ſuch as I am able to be<g ref="char:EOLhyphen"/>ſtow. I am conſcious of my own inſuffici<g ref="char:EOLhyphen"/>encies, but withal, of your candid ingenui<g ref="char:EOLhyphen"/>ties, eſpecially to them who love the truth of Chriſt inſincerity.</p>
+            <p>I throw this childe of old age, into the arms of your pious Patronage: I beſeech you let it finde a room in your hearts, and a word from your lips, either to defend it, or at leaſt to excuſe it from the murmurings of any <hi>Momus,</hi> or the cavils of any <hi>Critick</hi>
+               <pb facs="tcp:170242:3"/>that may check, or chide it, or with black-mouthes blame it in your hearing. And this I beſeech for his ſake, that doth pro<g ref="char:EOLhyphen"/>miſe, what I am, or may be (Chriſt ſtrength<g ref="char:EOLhyphen"/>ning me) ſhalbe Gods, &amp; yours, &amp; his people.</p>
+            <p>There are very many daily ſending in their preſents to the Church of Chriſt, of their profitable labors: I thought it not amiſs to ſend in my mite into this Trea<g ref="char:EOLhyphen"/>ſury, as a teſtimony of my equal deſire; which in Gods account, goes for current coyn, and is accepted: And I hope ſhall finde favor with ſome, although it may be contemned by others.</p>
+            <p>But if it may at all, or in the leaſt mea<g ref="char:EOLhyphen"/>ſure, bring any glory unto God, or good to the Church of Chriſt, I have my end and aim: it is all I look for, and it is abundantly enough.</p>
+            <p>For which purpoſe, I ſend it unto you my reverend Brethren, with prayers for to ac<g ref="char:EOLhyphen"/>company it, and follow it; humbly requeſt<g ref="char:EOLhyphen"/>ing that I may have a portion in your aſſi<g ref="char:EOLhyphen"/>dual prayers for him, who will retaliate them, with heart-panting petitions to the throne of Grace, that yours, and mine, and all the labors and layings out of the Mini<g ref="char:EOLhyphen"/>ſters of Jeſus Chriſt, may proſper in the hearts of our people, which is and ſhall be, the conſtant prayer of <hi>Your weak, unwor<g ref="char:EOLhyphen"/>thy Brother,</hi>
+            </p>
+            <closer>
+               <dateline>Prees, <hi>from my ſtudy,</hi>
+                  <date>March <hi>26. 1656.</hi>
+                  </date>
+               </dateline>
+               <signed>Aylmor Houghton,</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:170242:3"/>
+            <head>CLAVIS <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: THE KEY of ORDINATION.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Acts 13.2, 3.</hi>
+                  </bibl>
+                  <p>As they miniſtred to the Lord and faſted, the Holy Ghoſt ſaid, Separate me Barna<g ref="char:EOLhyphen"/>bas and Saul, for the work whereunto I have called them.</p>
+                  <p>And when they had faſted, and prayed; and laid their hands on them, they ſent them away.</p>
+               </q>
+            </epigraph>
+            <p>
+               <note place="margin">Acts 20.1.</note>
+               <hi>
+                  <seg rend="decorInit">M</seg>En, Brethren and Fa<g ref="char:EOLhyphen"/>thers,</hi> the words of my Text ſpare me the labor to acquaint you with the buſineſs we are this day come about: They ſpeak for me, and tell you, it is to ſe<g ref="char:EOLhyphen"/>parate theſe our brethren, for the work where<g ref="char:EOLhyphen"/>unto the holy Ghoſt hath called them. <pb n="6" facs="tcp:170242:4"/>And therefore, according to the Rule of the Holy Ghoſt, held forth in my Text, when we have ſpent ſome time in prayer and faſt<g ref="char:EOLhyphen"/>ing, to ſeek God for a bleſſing on them, we ſhall lay our hands on them, and ſend them forth to the work whereunto they are cal<g ref="char:EOLhyphen"/>led.</p>
+            <p>The words agree in themſelves: I deſire that no buſie-body may be here this day, to make a breach about them; for as face an<g ref="char:EOLhyphen"/>ſwers face, ſo doth my Text, like a loving Maſter commanding, and faithful Servants obeying, ſo runs my Text this day before you.</p>
+            <p>Firſt, The Holy Ghoſt commanding a duty; <hi>The Holy Ghoſt ſaid, Separate me Barnabas and Saul, for the work where<g ref="char:EOLhyphen"/>unto I have called them.</hi>
+            </p>
+            <p>Secondly, Here is obedience returned by thoſe commanded: <hi>And when they had faſted, and prayed, and laid their hands on them, they ſent them away.</hi>
+            </p>
+            <p>I ſhall ſpeak the moſt I have to ſay, to the firſt of theſe, which is to the Command, <hi>The Holy Ghoſt ſaid, Separate me Barnabas and Saul, to the work whereunto I have called them.</hi>
+            </p>
+            <p>I ſhall refer the moſt of the ſecond branch of my Text, which is the obedience re<g ref="char:EOLhyphen"/>turned <pb n="7" facs="tcp:170242:4"/>to this Command, to the eyes and ears of all (this day) here preſent, to be fulfilled before you, by us who are (at this time) ap<g ref="char:EOLhyphen"/>pointed to this Office, to ſeparate theſe our Brethren, for the work whereunto they are called, by prayer, and faſting, and laying on of our hands; and ſo ſhall ſend them forth, to the work whereunto they are cal<g ref="char:EOLhyphen"/>led.</p>
+            <p n="1">1. In the Command we have the perſon commanding: <hi>The Holy Ghoſt ſaid, Sepa<g ref="char:EOLhyphen"/>rate me Barnabas and Saul.</hi>
+            </p>
+            <p n="2">2. The perſons commanded, thoſe that were then miniſtring to the Lord, Prophets and Teachers, a Colledge of Preaching-Paſtors.</p>
+            <p n="3">3. The duty commanded, <hi>Separate.</hi>
+            </p>
+            <p n="4">4. The perſons to be ſeparated, <hi>Barna<g ref="char:EOLhyphen"/>bas</hi> and
+<hi>Saul.</hi>
+            </p>
+            <p n="5">5. The buſineſs they were to be ſepa<g ref="char:EOLhyphen"/>rated for; and that was to work.</p>
+            <p n="6">6. The work, what it was, for which they were to be ſeparated; and that is, the work whereunto the Holy Ghoſt had called them.</p>
+            <p n="7">7. The time when this Command was given; and that was, when as they were mi<g ref="char:EOLhyphen"/>niſtring to the Lord.</p>
+            <p>Theſe are the parts my Text falls into. <pb n="8" facs="tcp:170242:5"/>Here is both the tree, and the branches that iſſue and grow from it.</p>
+            <p>I ſhall not take up much time, in ex<g ref="char:EOLhyphen"/>plicating the ſenſe of the words; but ſum them up in a breif Paraphraſe, according to the ſeveral readings both of Ancient and Modern Writers, ſuch onely as I have traced on this Text, and as they and my ſelf underſtand the meaning of the Holy Ghoſt in them.</p>
+            <q>As they miniſtred to the Lord.</q>
+            <p>
+               <hi>Calvin, Eraſmus,</hi> and others, underſtand here
+<hi>nihil aliud, quam fuiſſe in actione publica;</hi> that they were in ſome publike action of Divine Worſhip before the Lord.</p>
+            <q>And faſted.</q>
+            <p>
+               <hi>Addit Jejunium,</hi> faſting is fixed to this duty, <hi>Ut ſciamus eorum mentes omni im<g ref="char:EOLhyphen"/>pedimento fuiſſe ſolutas ne quid obſtaret.</hi> Calvin. To hold forth their firm reſolu<g ref="char:EOLhyphen"/>tion, that nothing ſhould obſtruct the bu<g ref="char:EOLhyphen"/>ſineſs they were about.</p>
+            <q>The Holy Ghoſt ſaid.</q>
+            <p>That is, by ſome prophetick ſpirit of Re<g ref="char:EOLhyphen"/>velation
+<pb n="9" facs="tcp:170242:5"/>to one or more of them, with the conſent of the reſt.
+<hi>Diodate.</hi>
+            </p>
+            <p>The Holy Ghoſt, that is, <hi>ſpiritus ſan<g ref="char:EOLhyphen"/>ctus;</hi> God by his Spirit, or God the third Perſon in the Trinity.</p>
+            <p>God ſaid ſeparate mee <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſever them, ſet them apart from other men, and from all other imployments.</p>
+            <p>A Miniſters Calling is not of men, yet by men.</p>
+            <p>The Author of all holy Calling, to the Mi<g ref="char:EOLhyphen"/>niſtery, is only the Holy Ghoſt excluſive<g ref="char:EOLhyphen"/>ly to all men, but not to the other two per<g ref="char:EOLhyphen"/>ſons in the Sacred Trinity.</p>
+            <p>They all equally concur in this external work.</p>
+            <p>It belongs to the Lord of the Harveſt to call in Labourers into his Harveſt, but now by his Servants.</p>
+            <p>Nothing ſhould be done in ſpiritual un<g ref="char:EOLhyphen"/>dertakings, of ſuch high concernment as this in my Text, and as this day we are come a<g ref="char:EOLhyphen"/>bout, without this ſeparation.</p>
+            <p>In the firſt plantation of the Church of God, <hi>Moſes</hi> and <hi>Aaron</hi> had a ſpeciall charge given them, to ſeparate the
+<hi>Levits</hi> from among the Children of <hi>Iſrael,</hi> and their cloathes muſt be waſhed, and then preſented as an offering to the Lord,
+<hi>Numb.</hi> 8.14, 21.</p>
+            <pb n="10" facs="tcp:170242:6"/>
+            <p>And their ſeparation was twofold.</p>
+            <p>Firſt, Their initiation to their office, at a month old, and afterward the ſecond time, at the age of 25 years, <hi>Numb.</hi> 8.24.</p>
+            <p>And this laudable and approved cuſtome, of ſevering, &amp; ſeparating of men from the reſt of the multitude, for the work of Chriſt, hath been the practice of the primitive times of the Goſpel, and is ſtill continued, as the practice of the Church of Chriſt, in theſe Goſpel days, and kept up as moſt ſuitable to the mind of Jeſus Chriſt.</p>
+            <p>For this was the practice of the Apoſtles, <hi>Acts</hi> 6.6. The Apoſtles ſet them before them, and prayed, and laid their hands on them, and theſe proſpered in their Miniſtery.</p>
+            <p>The Holy Ghoſt ſaid, ſeparate me <hi>Barna<g ref="char:EOLhyphen"/>bas</hi> and
+<hi>Saul,</hi> that is, to be held in equall degree, and to go forth with equal authority with us to the work of Chriſt.</p>
+            <p>
+               <hi>Barnabas</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>filius Con<g ref="char:EOLhyphen"/>ſolationis:</hi> See <hi>Act.</hi> 4.36. the Son of conſolation.</p>
+            <p>
+               <hi>Jerom</hi> gives the interpretation of this name, <hi>filius prophetae,</hi> the Son of a Prophet, <hi>com<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſitum est,</hi> of the Hebrew word Bar <hi>et nabi, Prophetae munus,</hi> ſo <hi>Pafor.</hi>
+            </p>
+            <p>And <hi>Saul,</hi> an Hebrew word. Schaul, <hi>hoc eſt petitus,</hi> and <hi>Paul,</hi> that is, <hi>puſillus,</hi> and
+<pb n="11" facs="tcp:170242:6"/>ſo called in verſ. 9. of this Chapter.</p>
+            <p>
+               <hi>Paul</hi> ſignifies little, to hold forth,
+<q>ut deus voluit oſtendere per puſillum hunc, et per vas hoc infirmum, ſplendidam hujus mundi potentiam infracturam, et per contraria a<g ref="char:EOLhyphen"/>gere.</q>
+            </p>
+            <p>That God would by this little, and infirm weak inſtrument, break the ſeeming power and greatneſs of this world, and work by con<g ref="char:EOLhyphen"/>traries.</p>
+            <p>
+               <hi>Paul</hi> little, to ſet forth the humility, and lowlineſs of him, whom the Holy Ghoſt had here called forth to the work of the miniſtery.</p>
+            <p>He was little in his own eyes; God raiſ<g ref="char:EOLhyphen"/>eth Work-men to his work out of the duſt.</p>
+            <p>He plows, and ſows, in low grounds; theſe are they, that oftentimes prove moſt fertile and fruitful.</p>
+            <p>
+               <hi>Paul</hi> ſignifies alſo to ceaſe: thereby inti<g ref="char:EOLhyphen"/>mating, hee had now ceaſed to perſe<g ref="char:EOLhyphen"/>cute.</p>
+            <p>Hee was now called to work for Chriſt, that formerly had been a perſecutor of Chriſt.</p>
+            <p>Hee was now ceaſt, and ſtopt from ra<g ref="char:EOLhyphen"/>ging againſt Chriſt, and now was to work for him.</p>
+            <p>
+               <hi>Auſtine</hi> obſerves upon this Text, that
+<pb n="12" facs="tcp:170242:7"/>theſe two in my Text, had <hi>bina nomina,</hi> two names given them, to hold forth, the ſucceſſe that ſhould accompany their Miniſtery in the Church of Chriſt.</p>
+            <p>Their natures were changed with their names.</p>
+            <p>For the work whereunto I have called them.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>Ad opus ſeu officium, ad quod eos vocavi,</hi> To the work, or office, to which I have called them.</p>
+            <p>Work, labour: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The word ſigni<g ref="char:EOLhyphen"/>fies ſuch work, as wears, and waſtes out all, 1 <hi>Theſ.</hi> 5.12. wee beſeech you brethren, know them which work among you, who waſte, and wear themſelves away, with work among you.</p>
+            <p>Gods Miniſters are ſeparated, and ſent to be
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, workers together with Chriſt, 2 <hi>Cor.</hi> 6.1. whereunto I have called them.</p>
+            <p>This call in my Text, was different, from the call of others to this work, it was not ordina<g ref="char:EOLhyphen"/>ry, but extraordinary, it was an immedi<g ref="char:EOLhyphen"/>ate call, which is not required in the call of o<g ref="char:EOLhyphen"/>thers of Gods ſpecial ſervants.</p>
+            <p>It is not to bee expected: <hi>ut nobis è coe<g ref="char:EOLhyphen"/>lo inclamet Deus,</hi> That God ſhould call <pb n="13" facs="tcp:170242:7"/>from heaven, to tell us who are to be ſepara<g ref="char:EOLhyphen"/>ted for this work.</p>
+            <p>Hee who calls them, doth inable them to the work, they are called forth to work.</p>
+            <p>God: Miniſters now muſt have a medi<g ref="char:EOLhyphen"/>ate call: The Holy Ghoſt ſends and calls: and the call of the Holy Ghoſt is twofold. 1 Im<g ref="char:EOLhyphen"/>mediate. 2 Mediate. 1 Immediate, as theſe in my Text. 2 Mediate by his ſervants.</p>
+            <p>But ſome there are, who have no call, ei<g ref="char:EOLhyphen"/>ther from God, and his Spirit, or by men his ſervants, but runne on their own heads, and on their own errands. The Spirit of God complains againſt theſe, <hi>Jer.</hi>
+23.21. <hi>non mitebam prophetas, et ipſi currebant, non loquebar illis, et ipſi prophetabant.</hi> I have not ſent them, yet they ranne, I have not ſpoken to them, yet they propheſied; but hee that ſet them on work, muſt pay them their wages.</p>
+            <p>And our Saviour ſaith, that he that comes not in by the door, the ſame is a thief, and a robber, <hi>John</hi> 10.1.</p>
+            <p n="2">2 Some are called, and ſent of men, but not of God, as when <hi>Jeroboam</hi> made Prieſts of the loweſt of the people, 1
+<hi>King.</hi> 12.31.</p>
+            <p>So <hi>Jaſon,</hi> and <hi>Menelaus,</hi> was ambitiouſly affected after the Prieſthood, and ſought <pb n="14" facs="tcp:170242:8"/>by all unlawfull means, to procure it of <hi>Antiochus.</hi>
+            </p>
+            <p>And ſo by favour, and ſome indirect means or other, heretofore many of bad lear<g ref="char:EOLhyphen"/>ning, and baſer living, have been thruſt into the Miniſtery, to the diſhonour of God, grief to the godly, and ruine of many ſouls.</p>
+            <p>But bleſſed be God, there is now care ta<g ref="char:EOLhyphen"/>ken, and God hath put it into the hearts of the ſupream Authority of this Church, and Common-wealth, not only to prevent this evill, but to purge this evil, not only to caſt out, but to keep out, ſuch buyers and ſellers out of the Temple.</p>
+            <p n="3">3 But ſome are ſent, and called of God, and by men, as theſe in my text, and ſo <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi> and <hi>Titus,</hi> and others, by the Apoſt<g ref="char:EOLhyphen"/>les, for; how ſhall they preach, till they be ſent,
+<hi>Rom.</hi> 10.15.</p>
+            <p>And when they had faſted and prayed: This was the form, and order of the Church of Chriſt, in ſuch high undertakings, in mat<g ref="char:EOLhyphen"/>ters of ſuch moment, to addreſs themſelves to God in theſe duties.</p>
+            <p>
+               <hi>Calvin, Eraſmus,</hi> and others obſerve, it was not ſo much, for imploring God, to give them prudence, and wiſdome, to rule their judgements in this buſineſs, as to ſeek God, in behalf of thoſe called, and to bee ſet apart, <pb n="15" facs="tcp:170242:8"/>that the Lord would give them ſpirits ſuita<g ref="char:EOLhyphen"/>ble to their work, and bleſſe their labours, and make them effectuall, for his own glory, and the ſpiritual advantage of his Church, and people.</p>
+            <p>They laid their hands on them, that is, for a ſign of conſecration, and of a bleſſing <hi>Di<g ref="char:EOLhyphen"/>odvte.</hi>
+            </p>
+            <p>This was an ancient Ceremony in the Church of Chriſt, when any were ſeparated to this work. And it contains the ſpecies of their conſecration, and ſo ye have it, <hi>Act.</hi> 6.6.</p>
+            <p>This Ceremony hath been continued from the manner of their conſecration, in the time of the law; and retained by the Apoſtles; and ſtill of uſe in the Church of Chriſt, as a de<g ref="char:EOLhyphen"/>cent Ceremony, holding forth the offering of ſuch to God, for the work whereunto the Holy Ghoſt hath called them.</p>
+            <p>It is obſerved by <hi>Calvin,</hi> and <hi>Eraſmus,</hi> and ſome others, that prayers were fix'd to this Ceremony.</p>
+            <p>
+               <hi>Quia per ſe inanis eſſet Ceremonia,</hi> be<g ref="char:EOLhyphen"/>cauſe the Ceremony in it ſelf was ineffectu<g ref="char:EOLhyphen"/>all, and it referred to the Apoſtles, and nor to the people.</p>
+            <p>But when they had prayed, and laid their hands on them,</p>
+            <pb n="16" facs="tcp:170242:9"/>
+            <p>
+               <hi>Tunc alii ſua vota addiderunt,</hi> Then did others, that were preſent, help by their prayers, and devotions.</p>
+            <p>In a word, it is agreed, by the beſt, &amp; ſoun<g ref="char:EOLhyphen"/>deſt both of the Fathers and modern writers, yea by <hi>Calvin</hi> and
+<hi>Groſius,</hi> who though they may ſeem to diſſent, in other circumſtances, yet in this agree with us, that it is a decent rite, which although it hath no efficacy in it ſelf, <hi>Sed vim, et effectum, a ſolo Dei ſpiritu pendere,</hi> that the power and efficacy do wholly depend upon God by his ſpirit, in bleſſing it, yet is approved of God, and is commendable in the Church of Chriſt.</p>
+            <p>
+               <hi>Eraſmus,</hi> and ſome others with him, gloſſe thus upon this text.</p>
+            <p>That they were earneſt with God by pray<g ref="char:EOLhyphen"/>er, and faſting, to turn the office of theſe men which they took upon them, to his own glory and the Churches good.</p>
+            <p>And that thoſe, who were preſent, and the moſt eminent among them, laid their hands on them, and ſo ſent them away.</p>
+            <p>And hee exacts this Ceremony of laying on of hands, as taken from the practiſe of Chriſt himſelf, who was wont to lay his hands on them he bleſſed.</p>
+            <p>So Gods Miniſters, following the example of their Lord and Maſter Jeſus Chriſt, in this <pb n="17" facs="tcp:170242:9"/>duty have their warrants from him.</p>
+            <p>And <hi>Eraſmus</hi> ſeeks to remove an objecti<g ref="char:EOLhyphen"/>on then made, and ſtill made by ſome againſt this Ceremony.</p>
+            <p>Some object and ſay, what needs ſuch Rites, to the ſending forth of Miniſters to the work of Chriſt.</p>
+            <p>Hee anſwers: it is very requiſite, for it is a putting them into Authority.</p>
+            <p>And this Authority is meet for them, that all others might the rather obey the Miniſte<g ref="char:EOLhyphen"/>ry as fellow labourers, with other of Gods miniſters in the work of Chriſt, whereunto they are called.</p>
+            <p>And thus you have a brief ſummary of the ſenſe, and meaning of the words.</p>
+            <p>The Holy Ghoſt ſaid ſeparate me <hi>Bar<g ref="char:EOLhyphen"/>nabas,</hi> and
+<hi>Saul,</hi> for the work whereunto I have called them.</p>
+            <p>This is the main errand of the Holy Ghoſt this day, to my Reverend Brethren, and my ſelf.</p>
+            <p>And of my ſelf (at this preſent) to this re<g ref="char:EOLhyphen"/>verend, and religious aſſembly.</p>
+            <p>Which I ſhall make out in as compendi<g ref="char:EOLhyphen"/>ous tearms, as the fulneſs of the matter will give me leave.</p>
+            <p>I preſume I ſhall this day, finde in this throng and multitude, piety ſeaſoned with <pb n="18" facs="tcp:170242:10"/>prudence, pitty attended with patience, and parts without partiality.</p>
+            <p>I am worthleſſe, weak, and wanting, I therefore pray your patient attentions, your prudent intentions, and your practical im<g ref="char:EOLhyphen"/>provements of the errand I ſhall bring from Chriſt unto you.</p>
+            <p>This is all I beg of you, but your heart-prayer with mee, and for me, unto God, that I may both begin and conclude this work in the ſtrength of Jeſus Chriſt; and ſo I come unto it.</p>
+            <p>I ſhall gather up all I have to hold forth from the words of my Text, to this one do<g ref="char:EOLhyphen"/>ctrinal Theſis.</p>
+            <p>That, whom God calls to the weighty work of the Miniſtery, muſt be ſeparated by an outward call from other perſons; and im<g ref="char:EOLhyphen"/>ployments, by prayer and faſting, and laying on of hands, and ſo ſent forth to the work they are called unto.</p>
+            <div type="part">
+               <head>Or, Thus.</head>
+               <p>That it is the ordinary way of God in ſend<g ref="char:EOLhyphen"/>ing forth workmen to his work, to give them an outward call unto it, by a miniſterial pow<g ref="char:EOLhyphen"/>er of thoſe, who are authoriſed unto it.</p>
+            </div>
+            <pb n="19" facs="tcp:170242:10"/>
+            <div type="part">
+               <head>Or, Thus.</head>
+               <p>That the call of God, and of his ſervants, are not to bee ſeparated, in ſending forth of Miniſters to the work of Chriſt they are cal<g ref="char:EOLhyphen"/>led unto.</p>
+               <p>
+                  <hi>Act.</hi> 6.6. And they ſet them before them, and when they had prayed, they laid their hands on them, 2 <hi>Tim.</hi> 2.2. <hi>Haec commen<g ref="char:EOLhyphen"/>da fidelibus hominibus, qui idonei ſunt et alios docere.</hi>
+               </p>
+               <p>Theſe things commit thou to faithful men who ſhall be able to teach others.</p>
+               <p>Who are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, apt to teach o<g ref="char:EOLhyphen"/>thers,
+<hi>Heb.</hi> 5.1. Every high Prieſt, taken from among men, is ordained for men, in things pertaining to God.</p>
+            </div>
+            <div type="part">
+               <head>And the rather,</head>
+               <p>Firſt, Becauſe thoſe who ſhall go without this ſeparate mee, without a call, goes with<g ref="char:EOLhyphen"/>out his errand, and without his Commiſſi<g ref="char:EOLhyphen"/>on, and climbes in at the window.</p>
+               <p>And ſuch as creep in by ſuch a way, come not with an errand from Chriſt.</p>
+               <p>
+                  <hi>Et qui ingreditur per feneſtras ejicietur è foribus,</hi> ſuch as climb in at the window ſhal <pb n="20" facs="tcp:170242:11"/>bee thrown out at the door.</p>
+               <p>And this day it is in fulfilling: God only crowns the approbation of the Churches call, with ſucceſs, 1 <hi>Cor.</hi> 9.2.</p>
+               <p>Secondly. The rather, becauſe thoſe who runne before they bee ſent, in matters of this miniſterial concernment, they are uſurpers of that calling, which is no leſs deſperate, than dangerous; as in civil affaires and matters of ſtate, if any one ſhould uſurp and take up<g ref="char:EOLhyphen"/>on him the office of an Ambaſſador, with<g ref="char:EOLhyphen"/>out a call, or Commiſſion, it were death for any ſo to do, much more in this: for ſuch intruders upon divine ordinances, or<g ref="char:EOLhyphen"/>ders, and offices, without this <hi>ſeparate me,</hi> without a call, may juſtly meet, with his <hi>Quomodo huc introiſti?</hi> friend, how cameſt thou in hither without a call?</p>
+            </div>
+            <div type="part">
+               <head>The rather,</head>
+               <p>Thirdly, Becauſe ſuch as raſhly, and rude<g ref="char:EOLhyphen"/>ly venture upon miniſterial imployments, and improvements without this <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: with<g ref="char:EOLhyphen"/>out this ſeparation, and a call from God, and his ſervants, without this divine ordination, and inſtitution, do but rifle the ark, or at beſt, too buſily pry into it, and may juſtly meet with <hi>Vzzah</hi> his ſad doom, who did <pb n="21" facs="tcp:170242:11"/>but touch the Ark to keep it from falling, to a good intent, yet becauſe hee had no call from God, to that ſervice, was ſmitten with ſudden death, 2 <hi>Sam.</hi> 6.6.</p>
+               <p>To meddle with theſe <hi>Arcana religionis,</hi> theſe ſecrets of Religion, is not a work for e<g ref="char:EOLhyphen"/>very one to deal with.</p>
+               <p>Alas the beſt, and moſt able, may cry out with the Apoſtle, who is ſufficient for theſe things? 2 <hi>Cor.</hi> 2.16.</p>
+               <p>Ah dear Chriſtians, I could deſire, with the Prophet,
+<hi>Jeremy</hi> 9.1. That wee all had our heads wells of water, and our eyes foun<g ref="char:EOLhyphen"/>tains of tears, to bewail the great reproach caſt (by ſome men) upon the Church of Chriſt in this Engliſh Nation, by their bold and boundleſſe adventures, in daring to ſtand before God, as diſpenſers of his word, and Sacraments, that not long ago (ſome of them) were Mechanicks, &amp; Trading in their Shops, with the men of the world, and others of them Huſbanding the earth, and plowing up the furrows of it, for bread and ſuſtenance.</p>
+               <p>And now are cryed up, as the only men ſent of God, to preach his word unto the peo<g ref="char:EOLhyphen"/>ple: as if there were ſome near Relation be<g ref="char:EOLhyphen"/>twixt the plowſtaff, and the pulpit, betwixt a pedler and a preacher.</p>
+               <p>But I could deſire, that ſuch as theſe <pb n="22" facs="tcp:170242:12"/>would look home to what they are called to, and every one abide in his own calling, which is the rule of the Apoſtle. 1 <hi>Cor.</hi> 7.20.</p>
+               <p>It is the advice of a godly man, that he gives to ſuch: let not the Cobler outgo his Laſt, nor the Tinker his Budget,</p>
+               <q>Sed Tracient fabrilia fabri.</q>
+               <q>Let them look to their Trading.</q>
+               <p>For, <hi>Non ex quolibet ligno fit Mercurius,</hi> Every one is not fit to make a Miniſter.</p>
+            </div>
+            <div type="part">
+               <head>The rather,</head>
+               <p n="4">4. Becauſe thoſe called of God, muſt alſo have a call from man: for the uſual livery of Gods ſpecial Servants, are twofold,
+<list>
+                     <item>1. <hi>Miſſio.</hi>
+                     </item>
+                     <item>2. <hi>Vocatio.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Chriſt by his Spirit ſends, and calls, and thoſe he imploys in his ſervice, he calls; and whom he calls, he cloathes; gives as well ability of doing, as authority to do. And where both theſe meet, they are ſweet<g ref="char:EOLhyphen"/>ly fitted, and graciouſly furniſhed for this <hi>Separate me, for this work whereunto they are called.</hi>
+               </p>
+               <p>I ſhall ſtand no longer upon the confirma<g ref="char:EOLhyphen"/>tion of the Doctrinal part of my <hi>Theſis.</hi>
+               </p>
+               <p>I have four terms in it, that I muſt firſt explicate, before I ſhall come to the Appli<g ref="char:EOLhyphen"/>catory part of it, which is the chief buſineſs
+<pb n="23" facs="tcp:170242:12"/>I have from my Text, to every ſoul here this day.</p>
+               <p>I muſt of neceſſity but touch upon each of the terms of my
+<hi>Theſis.</hi>
+               </p>
+               <p>For I muſt not leave my Errand undone: I have a meſſage from Chriſt, a threefold Errand.</p>
+               <p>The firſt to my Reverend Brethren, and my ſelf.</p>
+               <p>The Second, to theſe our Brethren, who are this day to be ſeparated for this weighty work.</p>
+               <p>The Third, Errand I have, is to all of you, who are our Auditors, and Spectators of the work we are met about.</p>
+               <p>And to each, a ſeaſonable and ſuitable word, when I come unto them.</p>
+               <p>The firſt term in my Doctrinal <hi>Theſis,</hi> is what the work is whereunto theſe are called.</p>
+               <p>I anſwer, It is
+<list>
+                     <item>1. A difficult work.</item>
+                     <item>2. It is a deſperate work.</item>
+                     <item>3. It is a Dead work.</item>
+                     <item>4. It is a deſtroying work.</item>
+                     <item>5. It is a different work.</item>
+                     <item>6. It is a daily work.</item>
+                     <item>7. It is a deſpiſed work.</item>
+                     <item>8. It is a dying work.</item>
+                     <item>9. It is a divine work.</item>
+                  </list>
+               </p>
+               <pb n="24" facs="tcp:170242:13"/>
+               <p>Firſt, it is a difficult work, and that in four regards: for,
+<list>
+                     <item>1. It is a ſeeking, work.</item>
+                     <item>2. It is a ſearching work.</item>
+                     <item>3. It is a ſpiritual work.</item>
+                     <item>4. It is a ſpacious. work.</item>
+                  </list>
+               </p>
+               <p>Firſt, it is a difficult work, for it is a ſeek<g ref="char:EOLhyphen"/>ing work, to ſeek out loſt ſinners, loſt ſons, loſt ſheep, loſt ſouls, loſt in hell; and this is that which makes the work hard.</p>
+               <p n="2">2. It is difficult, for it is a ſearching work, to ſearch out hidden things, and hidden myſteries, the myſteries of a hidden kingdom, of a hidden life, <hi>Col.</hi> 3.3. and this makes the work difficult.</p>
+               <p n="3">3. It is a difficult work, for it is a ſpi<g ref="char:EOLhyphen"/>ritual work, a ſupernatural work, a work above nature; it is ſoul-work, it is work about the ſoul, work about the inward man, ſoul-ſaving work, and this is difficult.</p>
+               <p>I confeſs Gods Miniſters are but the In<g ref="char:EOLhyphen"/>ſtruments in the hand of Chriſt; for all in<g ref="char:EOLhyphen"/>ternal work, is Gods work, this in-work is Gods work, <hi>Job</hi> 23.16. It is God that maketh the heart ſoft; but yet the Miniſtery is an inſtituted means, and therefore ſhould accompliſh this ſo difficult a work, becauſe inſtituted by Chriſt.</p>
+               <p n="4">4. It is a difficult work, for it is a ſpa<g ref="char:EOLhyphen"/>cious
+<pb n="25" facs="tcp:170242:13"/>work; it calls the whole man to the work, ſoul and body, head, heart and hand; ſoul and ſenſe, eyes and ears, all parts and powers are called forth to this work, and that to wearineſs: <hi>Much ſtudy is a wearineſs to the fleſh;</hi> and therefore a dif<g ref="char:EOLhyphen"/>ficult work.</p>
+               <p>Secondly, this work is a deſperate work, we are called to work not only works of pain, but peril. We fight, and often faint in fight<g ref="char:EOLhyphen"/>ing, for it is againſt enemies that are not one<g ref="char:EOLhyphen"/>ly wily and witty enemies, but are wilful and wicked enemies, that are head-ſtrong ene<g ref="char:EOLhyphen"/>mies, and heart-ſtrong enemies, and hand-ſtrong enemies, that except Chriſt come by his Spirit to help us, in this deſperate work all our labor is loſt, and longings loſt, and layings out loſt, and all our ſtrength ſpent in vain to moſt of our people; our work is to fight againſt Principalities and powers, the Rulers of the darkneſs of this world, <hi>Epheſ.</hi> 6.12. and therefore a deſperate work.</p>
+               <p>Thirdly, This our work is a dead work: we are to preach to dead ſouls, to dead hearts; <hi>that are dead in ſin and treſpaſſes,</hi> Eph. 2.2.</p>
+               <p>Our work is to fetch dead ſouls to life: To raiſe Lazers out of their graves, our work is about the life and death of the ſoul.</p>
+               <p>Fourthly, This our work is a deſtroying <pb n="26" facs="tcp:170242:14"/>work; for it will either deſtroy ſin, or the ſinner; it is the deſtroying pain of our work, that all we do, is as if it were almoſt deſtroy<g ref="char:EOLhyphen"/>ed: It is a deſtroying work, for it turns hearts into ſtones, and makes many worſe than they were.</p>
+               <p>Oh what a deſtructive condition are thoſe ſouls in, that our work ſhall prove their deſtruction, by their wilful neglect and con<g ref="char:EOLhyphen"/>tempt of it.</p>
+               <p>Fifthly, This our work is a different work, from the work of all other men, in the world no one is called forth to ſuch a work, as a Miniſter of Jeſus Chriſt: for the ef<g ref="char:EOLhyphen"/>fects of our work is far different from all other works of other men: for our work makes a difference, 1. Of men.
+2. In the manners of men. 3. In the hearts of men. 4. In the heads of men. 5. In the hands of men.</p>
+               <p>It works in different places, and in diffe<g ref="char:EOLhyphen"/>rent perſons, and in them differently, making ſome better, and ſome worſe.</p>
+               <p>It works in places as far different as hea<g ref="char:EOLhyphen"/>ven and hell, and in hearts that are as far different as light and darkneſs.</p>
+               <p>Sixthly, This our work is a daily work: its our every days work, the Lords day<g ref="char:EOLhyphen"/>work, and the labourers day-work.</p>
+               <pb n="27" facs="tcp:170242:14"/>
+               <p>May conceit, that the work of a Miniſter is but a little, on the Lords day, and then he may reſt; but alas theſe men are mightily miſtaken, for our work hardly admits of any intermiſſion.</p>
+               <p>Our work muſt ſmell of the candle, wee muſt have our night ſtudies.</p>
+               <p>When you are at your reſt, we are at our work, when you ſleep we are awake, our work is a vigilant work, wee wax white with work, and watching.</p>
+               <p>We are commanded to be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> vigi<g ref="char:EOLhyphen"/>lant; 1
+<hi>Tim.</hi> 3.2. our work is either read<g ref="char:EOLhyphen"/>ing, or praying, or elſe meditating, or ſigh<g ref="char:EOLhyphen"/>ing, or groaning, or mourning, or ſtudying your good, and your life becomes ſome of our deaths, with our daily and continual working.</p>
+               <p>Seventh, This our work is a deſpiſed work, it is the greateſt work under heaven, and the leaſt regarded in the world, ſubject to the ſcorn of wicked men, and contempt of the world.</p>
+               <p>Eightly, This our work is a dying work, wee like
+<hi>Rachell,</hi> dye in travel, to bring forth Sonnes, and Daughters to Jeſus Chriſt.</p>
+               <p>It is our death, that our work dies in any of our people.</p>
+               <pb n="28" facs="tcp:170242:15"/>
+               <p>Ah Chriſtians, how much of our work is like water, ſpilt upon the ground.</p>
+               <p>It is heart-dying to us, that our work dies in your hearts.</p>
+               <p>The Apoſtle <hi>Gal.</hi> 4.19. tells the
+<hi>Galae<g ref="char:EOLhyphen"/>tians,</hi> that hee travelled in birth, till Chriſt were formed in them: but alas how many falſe births, and abortive births are produced by our work, that hath wrought in ſome of our people, only a form of godlineſſe, but not the life, and power of it? and this is a dying work both to them, and us.</p>
+               <p>Ninthly, This our work is a divine work, It is the work of God in us, by his Spirit. Chriſt rules, and calls our men here and there to this work, to miniſter to the ſouls of men: It is a work of divine, and ſpirituall concern<g ref="char:EOLhyphen"/>ment to the ſouls eternity.</p>
+               <p>This is the firſt tearm, in my doctrinal Theſis, I ſhall be briefer in the reſt.</p>
+               <p>The ſecond tearm is, what the inward call is by the Spirit.</p>
+               <q>The Holy Ghoſt, ſaid, ſeparate me Barnabas, and Saul.</q>
+               <p>I Anſwer. This call is from God: by his ſpirit, and only known (as I Humbly conceive) by theſe three Requiſites, which if found in
+<pb n="29" facs="tcp:170242:15"/>theſe our Brethren, or in any elſe called forth to this work, we may with an humble confidence be perſwaded, that they have this inward call: and that the Holy Ghoſt hath ſaid, Separate mee theſe men for the work, whereunto I have called them.</p>
+               <p>
+                  <list>
+                     <item>The firſt Requiſite is,</item>
+                     <item>Pure intentions.</item>
+                     <item>2 Pious affections.</item>
+                     <item>3 Perſonal qualifications.</item>
+                  </list>
+               </p>
+               <p>Firſt Pure, and zealous intentions: The firſt and higheſt Attractive, that draws the thoughts and intentions of any to undertake this burden, muſt be the glory of God, and the edification of his Church, to bring ſouls to Jeſus Chriſt. There muſt bee no conſult<g ref="char:EOLhyphen"/>ing with fleſh and blood, about this weighty work</p>
+               <p>If either profit or preferment, honour, or eaſe, have any thing to do in our intentions, (as they have in too many) then wee may conclude, that ſuch are not called by the Spi<g ref="char:EOLhyphen"/>rit.</p>
+               <p>Second Requiſite is pious, and cordial af<g ref="char:EOLhyphen"/>fections; a godly affection to do good, with our abilities we ſhould have mountains of love in us, and wear them all, and waſt them all away in love to Chriſt, and to his people, 2 <hi>Cor.</hi> 12.15. I will gladly ſpend, and be ſpent for you, though the more abun<g ref="char:EOLhyphen"/>dantly <pb n="30" facs="tcp:170242:16"/>I love you, the leſſe I am beloved.</p>
+               <p>Hee whom love calls to this labour, is called of God, and his work ſhall proſ<g ref="char:EOLhyphen"/>per.</p>
+               <p>Third Requiſite is perſonal qualificati<g ref="char:EOLhyphen"/>ons; and thoſe are three-fold.</p>
+               <list>
+                  <item>1 Humanity.</item>
+                  <item>2 Humility.</item>
+                  <item>3 Honeſty.</item>
+               </list>
+               <p>Firſt, Humanity; God ſends not headleſſe, or heartleſs, or handleſſe men, to this work, for hee either finds them fit in ſome meaſure, or makes them fit for this work.</p>
+               <p>And that Firſt in Perſon, Second, in Parts, both in life, and learning.</p>
+               <p>They muſt have the indowments and the perfections of both natures, the outward man, as well as the inward man; one called of God by his Spirit, muſt be not only <hi>peritus in re<g ref="char:EOLhyphen"/>ligione, ſed caſtus moribus:</hi> not only skill<g ref="char:EOLhyphen"/>ful in the Doctrin of Religion, but alſo regu<g ref="char:EOLhyphen"/>lar in all civillities of humanity: grace takes not nature away but regulates it, refines it, and reforms it.</p>
+               <p>Religion doth not throw civilities out of doors, (as ſome of the quaking faction do) but entertains it, as a ſuitable ornament<g ref="char:punc">▪</g> to grace, and as a neceſſary qualification for Miniſters, which requires they bee of a civil <pb n="31" facs="tcp:170242:16"/>deportment to all men, ſo far forth as may ſtand with the honour of their perſons, and places.</p>
+               <p>Secondly, Humility. Such as are called of God, by his Spirit, are humble, they check, and chide their own abilities, by their own under<g ref="char:EOLhyphen"/>valuing of them.</p>
+               <p>They take this office and calling upon them, <hi>cum timore, et reverentia, ſuſcipere, et ſe excuſare,</hi> with fear, and reverence, and excuſing of themſelves, as unworthy, and un<g ref="char:EOLhyphen"/>able for it, thus
+<hi>Moſes, Jeremy,</hi> and o<g ref="char:EOLhyphen"/>thers.</p>
+               <p>Thirdly Honeſty. Whom God calls by his ſpirit to this work, muſt be of an upright life &amp; converſation, towards all men, both towards thoſe without, and within, to good and bad.</p>
+               <p>Such as are called of God, muſt not only <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<hi>ſed</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: not only talk aright, but walk aright, hee muſt not only teach the way to heaven, but tread, and trace the way to heaven.</p>
+               <p>His Doctrin muſt bee <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, A ſpeech quickned with the actions of an upright life.</p>
+               <p>For there is no life in Doctrine, where there is not Doctrine in the life.</p>
+               <p>Gods Miniſters muſt teach the eyes, as well as the ears of the people.</p>
+               <pb n="32" facs="tcp:170242:17"/>
+               <p>For we have not ſo much, nor ſo great a work to do with their ears, as with their eyes; for their eyes are more intent upon what we practice, than upon what we preach:</p>
+               <p>
+                  <hi>Boni mores praedicantium, ſal eorum Doctrinae.</hi> The honeſt and upright life of a Miniſter, is the ſalt that ſeaſoneth all his do<g ref="char:EOLhyphen"/>ctrine.</p>
+               <p>The ſins of Teachers, are the Teachers of ſin; and a Miniſter of a diſhoneſt life, is the vileſt creature in the world.</p>
+               <p>A <hi>Turk,</hi> or <hi>Tartar,</hi> a <hi>Jew,</hi> or
+<hi>Jeſuit, Popiſh,</hi> or <hi>Prophane,</hi> are not ſo vile as ſuch a one.</p>
+               <p>It is a fearful ſpeech of <hi>Chryſostome,</hi> of a wicked Miniſter, <hi>Quis unquam Clericum lapſum penitentem vidit?</hi> Who ever ſaw a Miniſter recover himſelf, after his fall, by repentance? ſome, not many, and but very ſeldom.</p>
+               <p>But thoſe who walk unblameably, are called of God, even thoſe that have theſe pure intentions, theſe pious affections, and theſe perſonal qualifications of humanity, humility, and honeſty: we may with an hum<g ref="char:EOLhyphen"/>ble confidence be aſſured, that the Holy Ghoſt hath ſaid unto us, <hi>Separate me theſe men, for the work whereunto I have called them.</hi>
+               </p>
+               <pb n="33" facs="tcp:170242:17"/>
+               <p>The third Term in my Doctrinal <hi>The<g ref="char:EOLhyphen"/>ſis,</hi> holds forth the outward call by Separati<g ref="char:EOLhyphen"/>on.</p>
+               <p>Presbyterial Separation is an external call of perſons to the work of Chriſt, and a Mini<g ref="char:EOLhyphen"/>ſterial privilege: It is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: Mini<g ref="char:EOLhyphen"/>ſterial Power.</p>
+               <p>And this Authoritive Separation, is in the Miniſtery,
+<hi>Acts</hi> 6.6. <hi>The Apoſtles prayed, and laid their hands on them:</hi> which we call Ordination, or <hi>Clavis</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, The Key of Ordination.</p>
+               <p>Election may belong to the people, but in Ordination, Paſtors have been ſtill actors and ordainers, as <hi>Acts</hi> 1.26. &amp; 6.6.
+<hi>Tit.</hi> 1.5.</p>
+               <p>In this buſineſs, there is onely required, the ſilent approbation of the godly.</p>
+               <p>Election follows Ordination, and is but an approbation of a called perſon to his Mini<g ref="char:EOLhyphen"/>ſtery, to ſuch a particular Congregation.</p>
+               <p>The Juridical power is in the Presbytery, to judge of, and examine thoſe who are to preach the Word of God, that ſo falſe Teachers and Unworthy men, might be kept from creeping into the Church of Chriſt.</p>
+               <p>For wicked men, ſuch as are meerly na<g ref="char:EOLhyphen"/>tural and prophane, or hypocrites in heart, <pb n="34" facs="tcp:170242:18"/>would never conſent to the call of a holy Mi<g ref="char:EOLhyphen"/>niſter of Jeſus Chriſt.</p>
+               <p>And beſides, theſe are not capable in their choice, to judge of ſuch, but may either out of prejudice, or ignorance, or out of a pro<g ref="char:EOLhyphen"/>phane heart, deny conſent to his Miniſtery, whom God hath called, and ſaid,
+<hi>Separate me ſuch a one to the work whereunto I have called him.</hi>
+               </p>
+               <p>For my part, I cannot be perſwaded or ſatisfied in this one thing, that ever any one not called by the Church, and that is out of office and orders, and intrudes upon this holy calling, ſhould ever convert ſouls, or bring any to heaven.</p>
+               <p>Diſſenting judgements there are of ſome of our Brethren, about this, <hi>Separate me,</hi> even concerning the form of this Separation, and Ordination. But I intend not to wade into this buſineſs, or meddle with this Con<g ref="char:EOLhyphen"/>troverſie: Our practiſe is approved, and ſufficiently cleared to the ſatisfaction (I hope of all here, or of the moſt) that deſire unity and order in the Church of Chriſt; and therefore I ſhall leave it, with this one ad<g ref="char:EOLhyphen"/>ditional requiſite belonging to it, which is, Probation, 1
+<hi>Tim.</hi> 3.10. <hi>Hiprobentur,</hi> let them firſt be proved.</p>
+               <p>And this hath been our form of proceed<g ref="char:EOLhyphen"/>ing, <pb n="35" facs="tcp:170242:18"/>in ſetting apart, and ſeparating thoſe, whom hitherto we have laid our hands on, and ſent forth to the work whereunto they have been called, and that both of their abilities and deportments.</p>
+               <p>And the rather,</p>
+               <p>For as a wiſe Maſter of a Family, will not commit matters of moment, to any one Servant, till he hath firſt made proof of his ability to do it, and alſo of his faithfulneſs in doing it,</p>
+               <q>Multo magis neceſſarium est eos probari quibus comittenda eſt cura ſanctae Congre<g ref="char:EOLhyphen"/>gationis.
+<bibl>Hiperius.</bibl>
+               </q>
+               <p>Much more fit is it, that thoſe be tryed and proved, to whom is committed the care of ſouls in the Church of Chriſt.</p>
+               <p>A word of the fourth Term, which is the form of this outward call by Separation.</p>
+               <q>And when they had prayed.</q>
+               <p>Prayer is a duty for all undertakings of Chriſtians, eſpecially in an undertaking of that nature, and high concernment, as this in my Text, and as we are this day come about.</p>
+               <p n="2">2. <hi>By faſting:</hi> This was a duty for ex<g ref="char:EOLhyphen"/>traordinary undertakings, and more than or<g ref="char:EOLhyphen"/>dinary <pb n="36" facs="tcp:170242:19"/>occaſions, ſuch as this is we are now about.</p>
+               <p n="3">3. <hi>By Impoſition of hands:</hi> which con<g ref="char:EOLhyphen"/>tains the ſpecies of their Conſecration.</p>
+               <p>In conferring of holy Orders, a double po<g ref="char:EOLhyphen"/>ſture hath anciently been obſerved:</p>
+               <p>Firſt, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the Impoſition of hands, in token of Conſecration, <hi>Acts</hi> 8.17.</p>
+               <p n="2">2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the holding up of hands, in ſign of confirmation, <hi>Acts</hi> 14.23.</p>
+               <p>And in this Ceremony is held forth the offering of them up to God, for the work whereunto the Holy Ghoſt. hath called them.</p>
+               <p>And this outward call, though it be not of men, yet it is by men, and neceſſary to ſo holy a function.</p>
+               <p>And all ſuch as come not in by this door, are but
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, new illuminates, lately dropt out of heaven, that yeſterday were but Dolts and Dunces, but to day are Doctors and Divines.</p>
+               <p>Yeſterday, with <hi>Saul,</hi> were ſeeking their fathers Aſſes, and to day are gotten a<g ref="char:EOLhyphen"/>mong the Prophets, 1 <hi>Sam.</hi> 10.16. like the Nightingale,
+<q>Vox, &amp; preterea nihil;</q> a voyce, and nothing elſe: or like the Came<g ref="char:EOLhyphen"/>lion, all lungs, and no heart.</p>
+               <p>All their learning is by Revelation, they <pb n="37" facs="tcp:170242:19"/>pray, and preach, and all by the Spirit; whereas all are but the viſions of their own hearts, the fancies of diſtempered ſpirits, and meer chymera's of ſin-ſick brains, which they rather feign than know, and fooliſh unſtable ſouls rather follow, than believe, or truſt.</p>
+               <p>But thoſe called of God, and by men, are ſuch as know God, and themſelves, who have a feeling of that ſpirit, who teacheth them to know God, and God to know them, and them to know themſelves: Of theſe the holy Ghoſt hath ſaid to us,
+<q>Sepa<g ref="char:EOLhyphen"/>rate me theſe men, for the work whereunto I have called them.</q>
+               </p>
+               <p>I have now done with the Doctrinal part of my <hi>Theſis,</hi> and ſhall fall upon the Ap<g ref="char:EOLhyphen"/>plicatory part, and be brief in it.</p>
+               <p>I hava a threefold Errand from Chriſt, to all here this day, ſuitable to your three<g ref="char:EOLhyphen"/>fold Stations, Relations, Places and Per<g ref="char:EOLhyphen"/>ſons.</p>
+               <p>My firſt Errand is to you, my Reverend Brethren, and my ſelf, who have this Com<g ref="char:EOLhyphen"/>mand in my Text enjoyned us,
+<q>To ſeparate theſe our Brethren, for the work where<g ref="char:EOLhyphen"/>unto they are called.</q>
+               </p>
+               <p>My ſecond Errand is, my Brethren, to you who are this day to be Separated from <pb n="38" facs="tcp:170242:20"/>other perſons and imployments, to this weighty work.</p>
+               <p>And my third Errand, is to all of you Chriſtian Auditors and Spectators to this Religious crowd and throng, who are this day Spectators, to behold; and Auditors to hear, how this work is performed both by them and us.</p>
+               <p>In all of which (I hope) you will be both Approbationers, to approve it; and Peti<g ref="char:EOLhyphen"/>tioners with us to the Throne of grace, and help us by your prayers, for a bleſſing on them.</p>
+               <p>And pray all your <hi>Amens</hi> unto it.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <salute>Reverend Brethren,</salute>
+               </opener>
+               <p>My firſt Errand and Word I have from Chriſt, is to you, and to my ſelf: All the excuſe I ſhall now plead is, I muſt be faithful to my Lord and Maſter Jeſus Chriſt, 1 <hi>Cor</hi> 4 2.</p>
+               <p>You have called me forth to this work; therefore give me leave to be plain and im<g ref="char:EOLhyphen"/>partial, in delivering the minde of Chriſt to us in this weighty buſineſs.</p>
+               <p>My firſt word to you, and to my ſelf, is onely that which this Apoſtle gave to his beloved <hi>Timothy,</hi> 1 <hi>Tim.</hi> 5.22. A charge that he gave him,
+<q>to keep himſelf pure, and to lay hands ſuddenly on no man, leſt he be <pb n="39" facs="tcp:170242:20"/>partaker of other mens ſins.</q>
+               </p>
+               <p>To prevent this evil, two things are re<g ref="char:EOLhyphen"/>quired of us before admiſſion of any to this weighty work.</p>
+               <list>
+                  <item>1. Circumſpection.</item>
+                  <item>2. Sincere Affecti<g ref="char:EOLhyphen"/>ons.</item>
+               </list>
+               <p>Firſt, Circumſpection: That ſuch onely be admitted, as are in ſome meaſure fraught and furniſht with the ſufficiencies of both men, the inward, and the outward man, clad and cloathed with the indowments and perfections, both of nature and grace.</p>
+               <p>Secondly, Sincere affections: That we be not tranſported with by-reſpects, either of profit, or of partiality: If we neglect ei<g ref="char:EOLhyphen"/>ther of theſe, we may make our ſelves par<g ref="char:EOLhyphen"/>takers of other mens ſins, of the ſins of o<g ref="char:EOLhyphen"/>thers: And that,
+<list>
+                     <item>1. By conſenting to ſuch.</item>
+                     <item>2. Or, By concealing of ſuch.</item>
+                     <item>3. Or, By contriving for ſuch.</item>
+                     <item>4. Or, By commending of ſuch to the work of the Lord, who are not called of God to this work by his Spirit, to this Miniſte<g ref="char:EOLhyphen"/>rial Function.</item>
+                  </list>
+               </p>
+               <p>I Remember a paſſage of <hi>Eraſmas,</hi> who ſtories of the Biſhop of <hi>Utretcht,</hi> who was ſon to the good Duke of
+<hi>Burgundie,</hi> 
+                  <pb n="40" facs="tcp:170242:21"/>who had at one time three hundred; who came to him for holy Orders.</p>
+               <p>He was reſolved he would examine them himſelf, and made tryal of their parts, and found but three of the three hundred, fitted for the buſineſs they came about, and ſo refu<g ref="char:EOLhyphen"/>ſed all but three of the three hundred, and de<g ref="char:EOLhyphen"/>nyed admittance to them: But his Officers were diſpleaſed, as making againſt their pro<g ref="char:EOLhyphen"/>fit. But he returned a ſharp, but ſincere an<g ref="char:EOLhyphen"/>ſwer, and told them, He would not admit of Aſſes into holy Orders, inſtead of men, and Chriſtians.</p>
+               <p>I beſeech you therefore, let it be our care, that we lay our hands there onely, where we are perſwaded God hath firſt laid his heart; and that thoſe whoſe heads we touch, thoſe their hearts God may touch, in reference to this Separation.</p>
+               <p>And this will be our Comfort.</p>
+               <p>My ſecond word to you, my Brethren, is, that thoſe we lay our hands on, may be (as one obſerves) <hi>qui ſunt compoſiti, ad mo<g ref="char:EOLhyphen"/>res.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <l>Probati, ad ſanctimoniam.</l>
+                     <l>Parati ad obedientiam.</l>
+                     <l>Subjecti, ad diſciplinam.</l>
+                     <l>Catholici ad fidem.</l>
+                     <l>Fideles ad Diſpenſationem.</l>
+                     <pb n="41" facs="tcp:170242:21"/>
+                     <l>Concordes ad pacem.</l>
+                  </lg>
+                  <lg>
+                     <l>Such as are compoſed to humanity,</l>
+                     <l>Who are of approved ſanctity.</l>
+                     <l>Who are prepared to obey ſincerely.</l>
+                     <l>Subject to godly diſcipline ſubmiſſively,</l>
+                     <l>Sound in the faith purely.</l>
+                     <l>Faithful in the diſpenſation of the Goſpel, freely, willingly.</l>
+                     <l>And of a peaceable behaviour, deſiring to in peace, and unity.</l>
+                  </lg>
+               </q>
+               <p>And I pray with <hi>Bernard,</hi> that thoſe whom wee lay our hands on, may be.</p>
+               <q>
+                  <lg>
+                     <l>In jubendo diſcreti.</l>
+                     <l>In loquendo modeſti.</l>
+                     <l>In profeſſione devoti.</l>
+                     <l>In zelo ſobrii.</l>
+                     <l>In miſericordia non remiſſi.</l>
+                     <l>In otio, non otioſi.</l>
+                     <l>Et qui Eccleſiis non ſpolient, ſed emen<g ref="char:EOLhyphen"/>dent.</l>
+                  </lg>
+                  <lg>
+                     <l>That in their judgements they be ſound.</l>
+                     <l>In their commands diſcreet.</l>
+                     <l>In their ſpeeches modeſt.</l>
+                     <l>In their profeſſions devout.</l>
+                     <l>In their zeal ſober.</l>
+                     <l>In mercy and compaſſion not careleſſe.</l>
+                     <l>In their recreations not vain and idle, but may be ſuch, as ſhall not hurt, but help the Church of Chriſt.</l>
+                  </lg>
+               </q>
+               <pb n="42" facs="tcp:170242:22"/>
+               <p>And then this <hi>Separate me,</hi> will advance Gods glory, and our comfort.</p>
+               <p>One word more to you my brethren and my ſelf.</p>
+               <p>Firſt, Let us pray for them.</p>
+               <p>Secondly, Let us praiſe God for them, that in theſe d ſtracting and diſcouraging times, he hath inclined their hearts unto this work.</p>
+               <p>Thirdly, Let us prize them, as fellow labourers with us, and eſteem them highly for their work with us.</p>
+               <p>Fourthly, Let us preſs them forward, to this weighty work, and that
+<list>
+                     <item>1 By our preſident.</item>
+                     <item>2 By our pattern.</item>
+                     <item>3 By our practice.</item>
+                     <item>4 By our painfulneſs, by which they may bee incouraged with all alacrity and chearfulneſſe.</item>
+                  </list>
+               </p>
+               <p>My ſecond word, is to you my brethren, who are to be ſeparated by us at this time to this great work, on whom we are to lay and our hands, ſend you forth to the work you are called to.</p>
+               <p>My word to you is, and it is my errand from Chriſt to you, that you ſeriouſly lay to heart this fourfold conſideration.</p>
+               <p>Firſt, I pray conſider who it is, that calls you forth to this work.</p>
+               <pb n="43" facs="tcp:170242:22"/>
+               <p>My Text tells you, and I tell you, it is hee that will require it, and alſo requite it, if faithfully performed, <hi>Dan.</hi> 12.3.
+<hi>Mat.</hi> 25.21. 1 <hi>Cor.</hi> 15. laſt.</p>
+               <p>Secondly, conſider I pray you, what the work is that you are cull'd, and call'd forth from other perſons, and from all other imployments to work, and to which we are to ſend you.</p>
+               <p>I have (in part) told you already, and now again further tell you.
+<list>
+                     <item>1 It is a high work.</item>
+                     <item>2 It is a low work.</item>
+                     <item>3 It is a broad work.</item>
+                     <item>4 It is a long work.</item>
+                     <item>5 It is an inwork.</item>
+                     <item>6 It is an outwork.</item>
+                     <item>7 It is a light work.</item>
+                     <item>8 It is a night work.</item>
+                  </list>
+               </p>
+               <p>Firſt, It a high work, for it is heaven work, you muſt fetch your work from hea<g ref="char:EOLhyphen"/>ven, as high as heaven, for your work lies in heaven, your Rule, you are to work by is from heaven, the Spirit that muſt help you in this work, is from heaven, and you muſt fetch all your work from heaven, and that by prayers, tears, reading, meditation, &amp;c. And if the work be too hard for you at any time, you muſt then ſend prayers to heaven, to un<g ref="char:EOLhyphen"/>tye that knot, and to make it eaſy, and to <pb n="44" facs="tcp:170242:23"/>enable you to do it, according to the mind of Chriſt.</p>
+               <p>Secondly, This work is a low work, as low as hell, you muſt fetch, and ſnatch brands out of the fire of hell, fetch ſouls out of hell, out of their helliſh eſtate and condition.</p>
+               <p>Thirdly, This your work is a broad work, a very ſpatious work; it is not confined to this place, or that place, to this ſoul, or that ſoul, to this or that ſin, to this or that ſinner, to this or that Saint.
+
+<list>
+                     <item>1 But go teach all nations.</item>
+                     <item>2 Reprove all ſin, and all ſinners.</item>
+                     <item>3 Deliver the whole and all the Councell of God.</item>
+                  </list>
+               </p>
+               <p>Fourthly, This your work, is a long work, a work that runnes the line of your lives, you are now putting your hand to the plough; and you muſt not look back, your work is ſo long, as to reach every ſinne, and every ſinner, and every Saint.</p>
+               <p>Fifthly, This your work is inwork, it is heart work, ſoul work, it is to work upon the mind, the inner man, all parts and pow<g ref="char:EOLhyphen"/>ers of the ſoul, and upon all the affecti<g ref="char:EOLhyphen"/>ons.</p>
+               <p>Sixthly, This your work, is outwork, it is not only a work of conviction, but alſo of converſion, and outward reformation.</p>
+               <pb n="45" facs="tcp:170242:23"/>
+               <p>To waſh the hands of ſinners, as well as their hearts,
+<hi>Jam.</hi> 4.8. the outſide as well as the inſide of the platter muſt bee cleanſed.</p>
+               <p>Seventhly, This your work is light work, it is to turn men from darkneſs to light, <hi>Act.</hi> 26.18.</p>
+               <p>It is a light ſhining work in the ſoul, it is a light burning work in the ſoul. It is a work that is a leading light to the ſoul.</p>
+               <p>Eightly, This your work is night work, it is to work in benighted ſouls, <hi>Eph.</hi> 5.18. It is a work about dark ſouls, it is to bring a candle to dark ſouls, to flark blind ſouls, that are in the dark night of ſinne and igno<g ref="char:EOLhyphen"/>rance.</p>
+               <p>Thirdly, I beſeech you conſider your Titles, and walk ſuitable to them in your places, and the rather for theſe two re<g ref="char:EOLhyphen"/>ſpects.</p>
+               <p>Firſt, Conſider the greateſt Princes in the world; have not ſuch high titles of honour, as the pooreſt faithful Miniſter of Jeſus Chriſt: As Angels, ſtars, lights.</p>
+               <p>Secondly, Conſider, That the greateſt in the world, have not ſo many ſeveral titles, and ſtiles of honour, as a miniſter of Chriſt.</p>
+               <p>I cannot ſtand to enumerate them, you have them in the holy Scriptures, only let it bee your care to live up to them.</p>
+               <pb n="46" facs="tcp:170242:24"/>
+               <p>Fourthly, Conſider the exhortation of this Apoſtle to his beloved <hi>Timothy,</hi> 1 <hi>Tim.</hi> 4.12.</p>
+               <p>Let no one deſpiſe your youth, but be all of you, examples to Beleevers in word, in doctrin, in converſation, in charity, in faith, and in purity.</p>
+               <p>And take notice, what the ſame Apoſtle ſaith to the ſame
+<hi>Timothy,</hi> 2 <hi>Tim.</hi> 2.15.</p>
+               <p>How hee exhorts him to ſhew himſelf ap<g ref="char:EOLhyphen"/>proved to God, a workman, that need not to be aſhamed.</p>
+               <p>And for that end, I ſhall onely lay down this one caution, and that is, that you will be diligent in, and about this work, whereun<g ref="char:EOLhyphen"/>to ye are called, and to which we are to ſend you.</p>
+               <p>And to make up this compoſition of dili<g ref="char:EOLhyphen"/>gence that it may be ſuch as to ſhew your ſelves workmen, that need not to be aſhamed</p>
+               <p>Theſe four ingredients, are to be put into it.
+<list>
+                     <item>1 Studiouſneſs.</item>
+                     <item>2 Sincereneſſe.</item>
+                     <item>3 Seriouſneſſe.</item>
+                     <item>4 Speedineſſe.</item>
+                  </list>
+               </p>
+               <p>Firſt, You muſt be ſtudious: In this dili<g ref="char:EOLhyphen"/>gence ſtudy is attended, for no good work can be well done, without ſtudy.</p>
+               <pb n="47" facs="tcp:170242:24"/>
+               <p>You cannot pray well, without ſtudy nor can you preach well without ſtudy; ſtudy is the labour of the mind, and we muſt bee intent upon it.</p>
+               <p>Idleneſſe is not allowed to any, no not to the greateſt perſonages.</p>
+               <p>
+                  <q>Quo major ſum, magis laboro,</q> was the ſaying once of a great man.</p>
+               <p>The greater the perſon, the greater his ſtudy, care, and pains for the publike good.</p>
+               <p>He that will not work in the vineyard, muſt not look for his peny.</p>
+               <p>And it muſt be our own work, our own ſtudy, our own labor: we are called to la<g ref="char:EOLhyphen"/>bor, not to loiter.</p>
+               <p>We muſt not live upon the ſweat of other mens diligence and labor; not upon their work, but our own.</p>
+               <p>It is not diligence to have a great ſtudy of books, but to have a great book full of ſtudy.</p>
+               <p>Our beſt Library is in heaven, and if we truſt onely to a full ſtudy of Books, and reſt upon the labors of others, done to our hands: this is not diligence, nor ſtudy nor labor, nor the work we are called forth unto: But we ſhall prove, like the Drone in the Hive, or like the Bird, that made her ſelf fair with the feathers ſtolen from <pb n="48" facs="tcp:170242:25"/>other Birds, that were none of her own.</p>
+               <p>Gods Miniſters may go into their ſtudy, as to a Garden, and here and there gather a flower, to ſweeten and beautifie their work, and for ſpiritual advantage to their peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p>But for any to ſpend precious time idlely, or in impertinent worldly occaſions, till the latter end of the week, and then huddle up ſome notes, out of other mens works, and get theſe into his hand; but neither into head, or heart; into his book, but not into his boſom: this is not diligence or ſtudy, or to ſhew our ſelves workmen, that need not be aſhamed.</p>
+               <p>A ſecond Ingredient is ſincereneſs: In this diligence there muſt be ſincerity. It muſt fetch life from love, and our diligence in this work muſt be drawn from warm affections, to our peoples ſpiritual advan<g ref="char:EOLhyphen"/>tage.</p>
+               <p>All the negligence that ever accompanies this calling, is through want of love, and ſincere affections to the ſalvation of the ſouls of our people.</p>
+               <q>Lacrimae auditorum Laudes tuae ſint.</q>
+               <p>Their tears ſhould be our greateſt praiſe.</p>
+               <p>We ſhould endeavor with <hi>Peter,</hi> to prick our people at the heart, and make them <pb n="49" facs="tcp:170242:25"/>glad to cry out, <hi>What ſhall we do?</hi> Acts 2.37.</p>
+               <p>A third Ingredient to this diligence, is Se<g ref="char:EOLhyphen"/>riouſneſs: Diligence in this work is ſeriouſ<g ref="char:EOLhyphen"/>neſs in it.</p>
+               <p>And that in three things,
+<list>
+                     <item>1. In looking up.</item>
+                     <item>2. In looking in.</item>
+                     <item>3. In looking out.</item>
+                  </list>
+               </p>
+               <p>Firſt, In looking up; and that to God, <hi>Pſal.</hi> 121.1,
+2.
+<q>I will lift up my eyes unto the hills, from whence comes my help: my help cometh from the Lord.</q>
+               </p>
+               <p>Gods Miniſters muſt be ſerious in this work, in making out unto Chriſt, and in looking up unto him for help, beginning and ending all their work with Chriſt.</p>
+               <p>Chriſt muſt be the <hi>Alpha,</hi> to begin it; and the
+<hi>Omega,</hi> to end it.</p>
+               <p>They muſt begin and end with a <hi>Deus ad<g ref="char:EOLhyphen"/>ſit,</hi> Chriſt ſtill preſent.</p>
+               <p>Secondly, They muſt ſeriouſly look in; that is, into their own hearts.</p>
+               <p>This is diligence indeed, and with a ſweet witneſs, when the Miniſters of Chriſt are ſerious in bringing their own hearts into conformity to thoſe ſaving truths they hold forth to others.</p>
+               <p>
+                  <q>Vocem Virtutis dabis ſi quod ſuades <pb n="50" facs="tcp:170242:26"/>prius tibi cognoſceris perſuaſiſſe.</q> Bernard Thou ſhalt make the Word become effectu<g ref="char:EOLhyphen"/>al, if what thou perſwadeſt and exhorteſt o<g ref="char:EOLhyphen"/>thers unto, thou knoweſt thou haſt firſt per<g ref="char:EOLhyphen"/>ſwaded thy own heart to it.</p>
+               <p>
+                  <q>Si me vis flere dolendum eſt prius:</q> If thou wouldſt have others mourn for ſin, thou muſt firſt begin thy ſelf that cup unto them.</p>
+               <p>If thou wouldſt be a curb to others, thou muſt firſt bridle thy own corruptions.</p>
+               <p>
+                  <q>Validior eſt vox operis, quam oris,</q> The voyce of works is of more force than that of words.</p>
+               <p>It is a foul incongruity, when words and works do not agree, eſpecially in a Miniſter of the Goſpel.</p>
+               <p>
+                  <hi>Gregory Nazianzen</hi> ſaith to a Miniſter,
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Either teach me not at all, or let thy holy life teach me.</p>
+               <p>I ſhall therefore ſend you, therefore Bre<g ref="char:EOLhyphen"/>thren, to a pattern for your and my imita<g ref="char:EOLhyphen"/>tion.</p>
+               <p>I ſhall ſpare to ſpeak of any here preſent, although (it may be) I might: But I ſhall give you a relation, as I had it from a Reli<g ref="char:EOLhyphen"/>gious Gentlewoman, one in my own Pariſh,</p>
+               <p>Concerning Mr. <hi>Samuel Hilderſham</hi> of
+<pb n="51" facs="tcp:170242:26"/>
+                  <hi>Welch-felton,</hi> in this County of <hi>Salop,</hi> who is ſaid firſt to do, and then to ſay; firſt
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the Roll, brings his Precepts to others, into his own practice; learns others, by his own religious life and converſation.</p>
+               <p>This relation, ſince I heard it, hath been often working upon my ſpirits, and I hope not in vain to my ſelf, nor to others.</p>
+               <p>It cannot be ſuppoſed, or once ſuſpected, that this ſhould be a ſpeech of flattery; for I know not the flattering ſtile, nor dare I, or will I flatter any.</p>
+               <p>But that I may give you, my ſelf, and others of my Brethren, incouragements to take up ſuch Preſidents for our imitation.</p>
+               <p>Thirdly, There muſt be a ſerious look<g ref="char:EOLhyphen"/>ing out to the ſtate and condition of our peo<g ref="char:EOLhyphen"/>ple, to know how it is, and what it is: we are to watch their ſouls, <hi>Heb.</hi> 13.17. 1 <hi>Pet.</hi> 5.21. <hi>Acts</hi>
+20.28. And accordingly ap<g ref="char:EOLhyphen"/>ply and ſuit our labors for their good. 1</p>
+               <p>The fourth Ingredient to this diligence, is ſpeedineſs: The diligent are full of Celerity and Alacrity, 1 <hi>Pet.</hi> 5.2. with willing mindes.</p>
+               <p>And the rather,</p>
+               <p n="1">1.
+<q>Propter Temporis brevitatom;</q> for, and from the ſhortneſs of the time we have to work.</p>
+               <pb n="52" facs="tcp:170242:27"/>
+               <p n="2">2.
+<q>Propter operis bonitatem;</q> the work is a good work we are about.</p>
+               <p n="3">3.
+<q>Propter muneris quantitatem;</q> the reward will be great for our work, <hi>Dan.</hi> 12.3. <hi>Gal.</hi> 6.10.</p>
+               <p>This is all I have to ſay unto you, my Brethren, who are to be ſeparated for this work, whereunto ye are called.</p>
+               <p>I leave the reſt to a Reverend Brother, who hath a word of Exhortation for you by and by.</p>
+               <p>My third and laſt word and errand, is to you Chriſtian friends, who are this day our Auditors and Spectators, of the work and buſineſs we are come about.</p>
+               <p>I have a few petitions to put up unto you, in the behalf of theſe our Brethren, and of our ſelves, that are workers together with Chriſt, in the great buſineſs of your ſouls ſalvation.</p>
+               <list>
+                  <item>1. I beſeech you pray for them and us.</item>
+                  <item>2. Praiſe them and us.</item>
+                  <item>3. Praiſe God for them and us.</item>
+                  <item>4. Prize them and us,</item>
+                  <item>5. Pitty them and us.</item>
+                  <item>6. Practiſe them and us.</item>
+                  <item>7. Pay them and us.</item>
+               </list>
+               <p>Firſt, I beſeech you pray for them and us,
+<pb n="53" facs="tcp:170242:27"/>and for the increaſe of faithful Miniſters, that their number may bee increaſed, and conti<g ref="char:EOLhyphen"/>nued, <hi>Mat.</hi> 9. <hi>ult.</hi> 2
+<hi>Theſ.</hi> 3.1, 2.</p>
+               <p>Ah dear Chriſtians, we all pray for you, nay, the Lord forbid that wee ſhould ever ceaſe to pray for you, 1 <hi>Sam.</hi> 12.23.</p>
+               <p>Therefore pray for them and us: alas, all the unfruitfulneſs of your hearts under all our toil and travel in our Miniſtery, is becauſe you do not pray for us: you do not pray for your Miniſters, that their work might warm your hearts, and make it ſaving for your ſalvation.</p>
+               <p>Secondly, I deſire you, praiſe them, and us: I tell you Chriſtians, that Gods Mini<g ref="char:EOLhyphen"/>ſters do deſerve from you their due commen<g ref="char:EOLhyphen"/>dation.</p>
+               <p>All the incouragements that you are able to give them, is little enough to hold up their ſpirits, in this weighty work.</p>
+               <p>You will incourage the creature, or a ſervant, or a child, when they do well, and will you not do it to a Miniſter?</p>
+               <p>Oh! do not vilify them, nor blemiſh them with reproaches.</p>
+               <p>
+                  <hi>Conſtantine</hi> the great, was wont to ſay, That the failings of a Miniſter ſhould be co<g ref="char:EOLhyphen"/>vered from the knowledge of others, and himſelf would rather cover them with his <pb n="54" facs="tcp:170242:28"/>Purple Robe, than have them known.</p>
+               <p>Thirdly, Praiſe God for them, and us; this is my next requeſt, praiſe God, that he is pleaſed to hold up a Goſpel-miniſtery a<g ref="char:EOLhyphen"/>mongſt us, by his daily calling in of labou<g ref="char:EOLhyphen"/>rers into his Harveſt,
+<hi>Matth.</hi> 9. laſt verſe.</p>
+               <p>Fourthly, I beg of you, that you will prize them and us, and that for our work ſake, 1 <hi>Tim.</hi> 4.17.</p>
+               <p>Oh! How beautifull, ſhould the feet be of thoſe that bring glad tydings! And thoſe who labour in the word, and doctrin, are worthy of double honour, ſaith our Apo<g ref="char:EOLhyphen"/>ſtle.</p>
+               <p>Oh! Do not undervalue them, thoſe who are the Miniſters of Jeſus Chriſt, nor do you account them,</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The offals and off-ſcourings of the world.</p>
+               <p>Fifthly, I intreat you pitty them, and us; I tell you Chriſtian friends, that none in the world ſhould have ſuch a plentiful portion of your pitty, as the Miniſters of Jeſus Chriſt.</p>
+               <p>Eſpecially if you would but ſeriouſly lay to heart theſe four things.
+<list>
+                     <item>1 Their great care, they are daily in.</item>
+                     <item>2 Their great coſt, daily at</item>
+                     <item>3 Their great account they muſt give.</item>
+                     <pb n="55" facs="tcp:170242:28"/>
+                     <item>4 Their great contempt they lye con<g ref="char:EOLhyphen"/>tinually open to.</item>
+                  </list>
+               </p>
+               <p>But I cannot ſtand upon theſe things; one<g ref="char:EOLhyphen"/>ly let me tell you, what <hi>Chryſoſtome</hi> ſaith, that their care, coſt, count, and contempt is ſuch, that the Angels themſelves would tremble for to undergo their burden, ſo great it is.</p>
+               <p>Sixthly, I earneſtly crave, that you will practiſe them and us, I mean, theirs and our preaching: It is the Apoſtles advice,
+<hi>Heb.</hi> 13.17.
+<q>that ye obey them, that rule over you in the Lord, as thoſe that muſt give an account.</q>
+               </p>
+               <p>I beſeech you, let not your fancies, ſit a<g ref="char:EOLhyphen"/>bove your judgements, but let your judge<g ref="char:EOLhyphen"/>ments guide your opinions, and let your o<g ref="char:EOLhyphen"/>pinions, being guided by ſome judgement, lead your zeal, if not, you walk prepoſte<g ref="char:EOLhyphen"/>rouſly in all duties of Religion.</p>
+               <p>Oh! Hence it is, that the ſpiritual yoke of obedience, and practice, is caſt off to all Goſpel Miniſtery, and ſo many live above our miniſtery, and ſome below our miniſtery.</p>
+               <p>Some above our Miniſtery, even above that Miniſtery that begot them, if ever they were ſpiritually begotten, and born of God.</p>
+               <p>And if it bee vile for a child to contemn the
+<pb n="56" facs="tcp:170242:29"/>natural father of his body: oh! how much more vile is it, in the ſight of God, for any to revile, and contemn, the ſpiritual fathers of their ſouls, 1 <hi>Cor.</hi> 9.2.</p>
+               <p>
+                  <hi>Alexander</hi> the great, a Heathen Empe<g ref="char:EOLhyphen"/>ror, was wont to ſay, That he was more be<g ref="char:EOLhyphen"/>holding unto <hi>Ariſtotle</hi> his Maſter, than to <hi>Philip</hi> his Father: for hee had but his being from his Father, but his well-being from his Maſter.</p>
+               <p>Hence it is, that wee have ſo many new Ruptures, bred in the bowels of the Church, which are indeed, but the grey hairs of old er<g ref="char:EOLhyphen"/>rors, which long ſince were worm-eaten, and duſted with antiquity.</p>
+               <p>And now taking the advantage of liberty of conſcience, and the allowance of that tol<g ref="char:EOLhyphen"/>leration, which was onely intended for tender conſciences, have new bruſht up their old erronious Tenents, and put fair flouriſhing, and hypocritical colours upon them: And theſe now fly abroad in the eyes of ſome of our people by which many of them, are al<g ref="char:EOLhyphen"/>moſt blinded, and wilfully refuſe to ſee the truth.</p>
+               <p>I beſeech you therefore deer Chriſtians, take heed of theſe: and reſolve to practice the preachings of your faithful miniſters: oh be not like <hi>Iſrael,</hi> loathers of your ſpirituall manna.</p>
+               <pb n="57" facs="tcp:170242:29"/>
+               <p>Harbour not nice appetites, nor coy, and curious ſtomacks: ſome are ſo dainty, that hardly one of a thouſand, can long pleaſe them, or any dainty diſh, long reliſh with them.</p>
+               <p>I remember I was once, at a Biſhops table in this land at dinner; and I heard him call for brown bread, and ſaid his ſtomack was grown wanton, he knew not what to eat, he was well, but his ſtomack was wanton.</p>
+               <p>So we have many, whoſe ſpiritual appetites and ſtomacks are grown wanton, they are well and have good ſpiritual food, but their ſto<g ref="char:EOLhyphen"/>macks are grown wanton</p>
+               <p>Nay, in the time that I can remember, and ſince I have been a Miniſter of Chriſt, Gods people have thought themſelves hap<g ref="char:EOLhyphen"/>py in the enjoyment of far ſhorter ſpiritual commons, and fared well, and were fat, and well-liking, with far leſs than we now injoy, and with courſer dyet, and yet were truely thankful.</p>
+               <p>Seventhly, and Laſtly, I pray you pay them and us; this is my laſt Requeſt, and I fear will be the leaſt regarded: yet the labo<g ref="char:EOLhyphen"/>rer is worthy of his wages, and the mouth of the Oxe that treadeth out the corn, ſhould not be muzled.</p>
+               <p>But if a Miniſter of Chriſt do but look for
+<pb n="58" facs="tcp:170242:30"/>that maintenance, which the Law of God, and of Nature, and Nations, do allow him for his work, Oh then, and not till then, The Hubbub is up in the mouth of the multi<g ref="char:EOLhyphen"/>tude, Away with him, he is but Mercinary, and a hireling.</p>
+               <p>All their work is for gain, for Tythes and Tenths, and for nothing elſe, this is that they work for.</p>
+               <p>I beſeech you give me leave (Chriſtians) to tell you, that the tythe and tenth of your profits is none of yours, but theirs to whom God hath alloted it for their maintenance; and the Law of the Nation hath eſtabliſhed it unto them, for ſowing unto you ſpiritual things, for the furthering of your ſalvation. I pray, let me tell you, what
+<hi>Auguſtine</hi> ſaith to this point in hand, That Tythe is too little for a Miniſter of Chriſt: And he gives his reaſon; Becauſe (ſaith he) if you give no more but your Tythe, you do not then exceed the righteouſneſs of the Scribes and Phariſees, who paid Tythe of all, even to Mint and Cummin.</p>
+               <p>It was wont to be ſaid,
+<q>What ſhall we give to the men of God?</q> 1 Sam. 9.7. but now it is common in the mouth of the moſt,
+<q>What ſhall we take from the men of God,</q> Pſal.
+83.12.</p>
+               <pb n="59" facs="tcp:170242:30"/>
+               <p>And it may juſtly be feared, that if a Mi<g ref="char:EOLhyphen"/>niſters allowance for his maintenance, were but what ſome pleaſe, and have been driving at, it would be after the rate of <hi>Cratis,</hi> in his Ephemeris, 10
+<abbr>l.</abbr> to the Cook, and ten talents to the Paraſite, and three half pence to the Philoſopher: Every little is thought too much for a Miniſter.</p>
+               <p>But I hope better things of all you here preſent, that you are better moulded, and better minded, better grounded, and better graced; and that you will now with winged zeal, willingly joyn with us in your prayers for theſe our Brethren, now to be ſet apart, for the work whereunto they are called.</p>
+               <p>That they may be inſtruments in the hand of Jeſus Chriſt, to advance his glory, and inlarge his Kingdom; for which I intreat the aſſiſtance of your prayers with us. <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Sacrae Trinitati Gloria.</hi>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170242:31"/>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:170242:31"/>
+            <head>Books lately Printed for <hi>Tho. Parkhurſt,</hi> at the ſign of the Three Crowns, over againſt the great Conduit, at the lower end of <hi>Cheapſide.</hi>
+            </head>
+            <p>DR. <hi>Richard Sibs</hi> his Commentary up<g ref="char:EOLhyphen"/>on the ſecond Epiſtle to the <hi>Corinthi<g ref="char:EOLhyphen"/>ans,</hi> publiſhed for publick good by
+<hi>Tho. Manton.</hi> in <hi>Folio.</hi>
+            </p>
+            <p>Mr. <hi>John Cotton,</hi> his Expoſition on the Firſt Epiſtle of <hi>John,</hi> with Doctrines, Rea<g ref="char:EOLhyphen"/>ſons and Uſes, in
+<hi>Folio.</hi>
+            </p>
+            <p>The Journal or Diary of a thankful Chri<g ref="char:EOLhyphen"/>ſtian, wherein is contained directions for the right method of keeping and uſing, according to the rules of practice, a Day-book of Na<g ref="char:EOLhyphen"/>tional and Politick, perſonal and private paſſages of Gods providence, to help Chri<g ref="char:EOLhyphen"/>ſtians to thankfulneſſe, and experience. By <hi>John Beudle</hi> Miniſter of the Goſpel a <hi>Bar<g ref="char:EOLhyphen"/>ſtone</hi> in <hi>Eſſex.</hi>
+            </p>
+            <p>Cathechizing Gods Ordinance, or a <pb facs="tcp:170242:32"/>ſhort treatiſe concerning that ancient, appro<g ref="char:EOLhyphen"/>ved and ſoul-edifying Ordinance of Cate<g ref="char:EOLhyphen"/>chiſm, by Mr. <hi>Zach. Crofton,</hi> Miniſter of the word at
+<hi>Buttolphs</hi> without <hi>Aldgate Lon<g ref="char:EOLhyphen"/>don</hi> in <hi>Octavo.</hi>
+            </p>
+            <p>Quakers principles quaking, their pretend<g ref="char:EOLhyphen"/>ed light proved darkneſs, and perfection prov<g ref="char:EOLhyphen"/>ed to be the greateſt imperfection, by
+<hi>Ralph Hall,</hi> whereunto is prefixed an Epiſtle of Mr. <hi>Zachary Crofton.</hi>
+            </p>
+         </div>
+         <div type="notice">
+            <head>Courteous Reader.</head>
+            <p>THou mayeſt expect within a ſhort time to ſee publiſhed ſome new peeces of Mr. <hi>William Fenners,</hi> who was ſo famous when living, and his works (though hee is dead) ſuch a ſweet (though ſilent) voice.</p>
+            <p>There is in the preſſe ſeveral excellent treatiſes of Dr.
+<hi>Samuel Bolton,</hi> never be<g ref="char:EOLhyphen"/>fore Printed, written by his own hand, pub<g ref="char:EOLhyphen"/>liſhed by Dr. <hi>Turkney,</hi> and Mr. <hi>Edmond Callamy.</hi>
+            </p>
+            <closer>
+               <signed>T. P.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
